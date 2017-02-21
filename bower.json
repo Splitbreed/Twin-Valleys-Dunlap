@@ -1,0 +1,17 @@
+{
+  "name": "twinvalleydunlap",
+  "description": "Website for Twin Valley's Grill, in Dunlap California",
+  "main": "index.js",
+  "authors": [
+    "Adam Youngblood"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Splitbreed/Twin-Valleys-Dunlap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
